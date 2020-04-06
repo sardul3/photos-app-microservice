@@ -1,0 +1,41 @@
+2020-04-04 00:00:45.232  INFO [users-service,,,] 81820 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-04-04 00:05:45.308  INFO [users-service,,,] 81820 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-04-04 00:10:45.314  INFO [users-service,,,] 81820 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-04-04 00:15:45.287  INFO [users-service,,,] 81820 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-04-04 00:20:45.302  INFO [users-service,,,] 81820 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-04-04 00:25:45.310  INFO [users-service,,,] 81820 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-04-04 00:30:45.316  INFO [users-service,,,] 81820 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-04-04 00:35:45.324  INFO [users-service,,,] 81820 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-04-04 00:40:53.479  INFO [users-service,,,] 81820 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-04-04 00:45:53.486  INFO [users-service,,,] 81820 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-04-04 00:50:53.495  INFO [users-service,,,] 81820 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-04-04 00:55:53.504  INFO [users-service,,,] 81820 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-04-04 01:00:53.515  INFO [users-service,,,] 81820 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-04-04 01:05:53.529  INFO [users-service,,,] 81820 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-04-04 01:10:53.502  INFO [users-service,,,] 81820 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-04-04 01:15:53.513  INFO [users-service,,,] 81820 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-04-04 01:20:53.521  INFO [users-service,,,] 81820 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-04-04 01:25:53.533  INFO [users-service,,,] 81820 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-04-04 01:30:53.538  INFO [users-service,,,] 81820 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-04-04 01:35:58.246  INFO [users-service,,,] 81820 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-04-04 01:40:58.256  INFO [users-service,,,] 81820 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-04-04 01:45:58.271  INFO [users-service,,,] 81820 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-04-04 01:50:58.281  INFO [users-service,,,] 81820 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-04-04 02:12:38.516  WARN [users-service,,,] 81820 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m43s553ms).
+2020-04-04 02:54:13.570  WARN [users-service,,,] 81820 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=41m35s54ms).
+2020-04-04 04:54:17.017  WARN [users-service,,,] 81820 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h3s148ms).
+2020-04-04 05:09:54.810  WARN [users-service,,,] 81820 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m38s11ms).
+2020-04-04 05:09:54.827  INFO [users-service,,,] 81820 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2020-04-04 06:24:47.401  WARN [users-service,,,] 81820 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h14m52s652ms).
+2020-04-04 07:30:14.318  WARN [users-service,,,] 81820 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h5m26s929ms).
+2020-04-04 07:39:53.785  WARN [users-service,,,] 81820 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m39s475ms).
+2020-04-04 08:56:43.537  WARN [users-service,,,] 81820 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h16m49s752ms).
+2020-04-04 09:12:02.138  WARN [users-service,,,] 81820 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m18s600ms).
+2020-04-04 09:12:02.420  INFO [users-service,,,] 81820 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_USERS-SERVICE/192.168.0.139:users-service:0 - Re-registering apps/USERS-SERVICE
+2020-04-04 09:12:02.424  INFO [users-service,,,] 81820 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_USERS-SERVICE/192.168.0.139:users-service:0: registering service...
+2020-04-04 09:12:02.584  INFO [users-service,,,] 81820 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_USERS-SERVICE/192.168.0.139:users-service:0 - registration status: 204
+2020-04-04 09:30:07.203  WARN [users-service,,,] 81820 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m5s66ms).
+2020-04-04 10:31:55.802  WARN [users-service,,,] 81820 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h1m48s598ms).
+2020-04-04 10:31:56.434  INFO [users-service,,,] 81820 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_USERS-SERVICE/192.168.0.139:users-service:0 - Re-registering apps/USERS-SERVICE
+2020-04-04 10:31:56.434  INFO [users-service,,,] 81820 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_USERS-SERVICE/192.168.0.139:users-service:0: registering service...
+2020-04-04 10:31:56.446  INFO [users-service,,,] 81820 --- [DiscoveryClient-HeartbeatExecutor-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_USERS-SERVICE/192.168.0.139:users-service:0 - registration status: 204
